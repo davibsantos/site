@@ -1,0 +1,47 @@
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.webpatas.com" resolutions="1x" timestamp="1443221657237">
+  <folder name="css">
+    <file name="site_global.css" crc="3966181062"/>
+    <file name="index.css" crc="4264005842" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="phone>index:index"/>
+    <file name="museutils.js" crc="275725342" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="phone>index:index"/>
+    <file name="webpro.js" crc="3883484123" ref="phone>index:index"/>
+    <file name="form_check.php" crc="3932029206" ref="phone>index:index"/>
+    <file name="form_throttle.php" crc="314685628" ref="phone>index:index"/>
+    <file name="form_process.php" crc="401030677" ref="phone>index:index"/>
+    <file name="form-u1246.php" crc="4185419487" ref="phone>index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="phone>index:index"/>
+    <file name="museredirect.js" crc="3899419633" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="form-u1171.php" crc="4238207970" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="3987562239" ref="phone>index"/>
+    <file name="logo-7c840ba8fc00d3ced40f660b4903e4dc76386649dc43b1931c7fc76e4f76a410.png" crc="495460445" seo="true" ref="phone>index:index"/>
+    <file name="u1262-17.png" crc="493706687" ref="phone>index"/>
+    <file name="u1262-17-r.png" crc="493706687" ref="phone>index"/>
+    <file name="u1262-17-m.png" crc="493706687" ref="phone>index"/>
+    <file name="u1262-17-fs.png" crc="319038089" ref="phone>index"/>
+    <file name="dog3.jpg" crc="3790885594" ref="phone>index:index"/>
+    <file name="facebook.png" crc="516061478" seo="true" ref="phone>index:index"/>
+    <file name="twitter.png" crc="4011826594" seo="true" ref="phone>index:index"/>
+    <file name="insta.png" crc="3802380397" seo="true" ref="phone>index:index"/>
+    <file name="mail.png" crc="3902656120" seo="true" ref="phone>index:index"/>
+    <file name="u1183-17.png" crc="26883224" ref="index"/>
+    <file name="u1183-17-r.png" crc="26883224" ref="index"/>
+    <file name="u1183-17-m.png" crc="26883224" ref="index"/>
+    <file name="u1183-17-fs.png" crc="319629013" ref="index"/>
+    <file name="ico-lupa-5c88101b2ae05d7ec920abfa53060cac32ac753445981e1747297e0c7c68a3c3.png" crc="513785136" seo="true" ref="index"/>
+    <file name="ico-money-43cefd9b1b1e453d1a7c63fd94687950a0b20f4343b79c07784dfceece28ccd5.png" crc="4040543171" seo="true" ref="index"/>
+    <file name="ico-heart-e27d5a63de999cd54880d138a433c3cbca8fd9a0a58d09b8fabc4fe9ea1bd866.png" crc="216567460" seo="true" ref="index"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="402946353" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="3760979912" seo="true" mt="1443220815134" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="3840013652" seo="true" mt="1443220659894" redirect="true"/>
+</manifest>
